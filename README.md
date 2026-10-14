@@ -127,7 +127,8 @@ The CSV files were exported from `Data_available_KSU_Waste_Collection_Survay.xls
 If you use this dataset, please cite the paper above and this repository (see `CITATION.cff`). <!-- TODO: add Zenodo DOI once archived -->
 
 ## License
-
+- Data (`data/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Code (`scripts/`): [MIT](LICENSE)
 <!-- TODO: choose a license. CC BY 4.0 is common for research data; CC0 1.0 maximises reuse. Add the full text as LICENSE. -->
 
 ## Contact
