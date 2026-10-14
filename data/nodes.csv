@@ -1,0 +1,24 @@
+node_id,facility_name,facility_type,latitude,longitude,role
+1,Vehicle depot,Vehicle depot,16.44879,103.53385,depot
+2,Office of the President Building,Shared facility,16.44682,103.53459,collection point
+3,Crop Production Technology,Teaching building,16.44863,103.53228,collection point
+4,Food Science and Technology,Teaching building,16.4492,103.52929,collection point
+5,Academic Resource Center (Library),Shared facility,16.45104,103.53107,collection point
+6,Academic staff residence A,Academic staff residence,16.45159,103.53272,collection point
+7,Academic staff residence B,Academic staff residence,16.45142,103.53257,collection point
+8,Academic staff residence C,Academic staff residence,16.45173,103.53197,collection point
+9,Academic staff residence D,Academic staff residence,16.45058,103.53225,collection point
+10,Academic staff residence E,Academic staff residence,16.45019,103.53206,collection point
+11,Academic staff residence F,Academic staff residence,16.45007,103.53178,collection point
+12,Academic staff residence G,Academic staff residence,16.44987,103.53242,collection point
+13,Academic staff residence H,Academic staff residence,16.45008,103.53261,collection point
+14,Academic staff residence I,Academic staff residence,16.45029,103.5326,collection point
+15,Food Laboratory Building,Teaching building,16.44975,103.52824,collection point
+16,Food Innovation Center (University Business Incubator),Shared facility,16.4501,103.52782,collection point
+17,Faculty of Administrative Science Building,Teaching building,16.45002,103.52855,collection point
+18,Multipurpose Hall,Shared facility,16.44916,103.52965,collection point
+19,"Canteen, Faculty of Engineering and Industrial Technology",Canteen,16.44921,103.53138,collection point
+20,Biotechnology Building,Teaching building,16.44819,103.5307,collection point
+21,Logistics Engineering and Transportation Technology Building,Teaching building,16.4483,103.53127,collection point
+22,Mechanical and Mechatronics Engineering,Teaching building,16.44911,103.5317,collection point
+23,Waste disposal point,Disposal point,16.45126,103.53468,disposal

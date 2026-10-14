@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "KSU Campus Waste-Collection Routing Dataset"
+type: dataset
+authors:
+  - family-names: Khumla
+    given-names: Pornsiri
+    affiliation: Kalasin University
+  - family-names: Kosasu
+    given-names: Jidapa
+    affiliation: Kalasin University
+  - family-names: Sriraksa
+    given-names: Natthanicha
+    affiliation: Kalasin University
+  - family-names: Sarawan
+    given-names: Kamthorn
+    affiliation: Kalasin University
+    email: kamthorn.sa@ksu.ac.th
+version: "1.0.0"
+date-released: "2026-10-14"
+# doi: 10.5281/zenodo.XXXXXXX   # fill in after archiving on Zenodo
+# license: CC-BY-4.0            # match the LICENSE file
+preferred-citation:
+  type: article
+  title: "Coverage sets the limit of fixed-route waste collection: exact benchmarking of a priori routing policies"
+  authors:
+    - family-names: Khumla
+      given-names: Pornsiri
+    - family-names: Kosasu
+      given-names: Jidapa
+    - family-names: Sriraksa
+      given-names: Natthanicha
+    - family-names: Sarawan
+      given-names: Kamthorn
+  year: 2026
+  # journal: "..."
+  # doi: "..."
